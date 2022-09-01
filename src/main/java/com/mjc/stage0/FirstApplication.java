@@ -1,4 +1,3 @@
-package com.mjc.stage0;
 
 public class HelloWorld {
     public static void main(String[] args) {
